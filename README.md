@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @om1872
 - 👀 I’m a Software Developer Engineer at AppDirect.
-- 🌱 I’m currently building systems, developing and designing solutions and delivering it end-to-end to real customers.
+- 🌱 I’m currently building systems, developing, designing and delivering solutions.
 - 💞️ With AI, currently exploring the new way of development and helping in enhancing the process and exploring for opportunities.
 - 📫 To reach me mail me @ omkumar1872@gmail.com.
 
